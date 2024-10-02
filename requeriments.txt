@@ -1,0 +1,22 @@
+# Librerías esenciales
+numpy==1.23.5
+pandas==1.5.3
+
+# Bibliotecas de aprendizaje automático
+scikit-learn==1.2.0
+tensorflow==2.11.0
+keras==2.11.0
+
+# Visualización de datos
+matplotlib==3.6.2
+seaborn==0.12.2
+
+# Reducción de dimensionalidad
+scikit-learn==1.2.0  # Ya incluido anteriormente
+umap-learn==0.5.3
+
+# Detección de anomalías
+pyod==0.9.5
+
+# Otros
+jupyter==1.0.0
